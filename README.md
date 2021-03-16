@@ -2,7 +2,7 @@
 VIBE: Video Inference for Human Body Pose and Shape Estimation [CVPR-2020]
 Project source: https://github.com/mkocabas/VIBE
 
-
+![result](result.gif)
 
 ## Getting Started
 VIBE has been implemented and tested on Ubuntu 18.04 with python >= 3.7. It supports both GPU and CPU inference.
