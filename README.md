@@ -1,5 +1,5 @@
 # VIBE Test
-VIBE: Video Inference for Human Body Pose and Shape Estimation [CVPR-2020].
+Video Inference for Human Body Pose and Shape Estimation [CVPR-2020].
 
 Project source: https://github.com/mkocabas/VIBE
 
